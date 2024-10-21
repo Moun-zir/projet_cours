@@ -39,6 +39,9 @@ section {
     position: relative;
     left: 450px;
 }
+#info{
+    background: rgb(229, 181, 50);
+}
 footer {
     text-align: center;
     padding: 10px 0;
